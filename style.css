@@ -1,3 +1,13 @@
+.header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.name {
+    color: peachpuff;
+}
+
 .messages {
     display: flex;
     flex-direction: column;
